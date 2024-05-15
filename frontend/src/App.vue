@@ -9,6 +9,9 @@
         <router-view :key="screen" class="router-view-c"></router-view>
       </vue-page-stack>
     </transition>
+    <footer class="footer">
+      Made with love ❤️
+    </footer>
   </div>
 </template>
 
